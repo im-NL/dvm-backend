@@ -1,0 +1,30 @@
+{
+    "courses": {
+        "BITS F111": {
+            "code": "BITS F111",
+            "sections": {
+                "P2": {
+                    "course": "BITS F111",
+                    "timings": {
+                        "Tuesday": [
+                            6,
+                            7
+                        ]
+                    },
+                    "section_name": "P2"
+                }
+            },
+            "description": "Thermodynamics raddi course"
+        },
+        "EEE F111": {
+            "code": "EEE F111",
+            "sections": {},
+            "description": "Course covers Basics of electrical circuit elements, Kirchhoff\u2019s law, Network analysis and Network theorems, Transient analysis of first order and second order circuits, Semiconductors and diodes, Basic operation and characterization of transistors (BJT and FET), Basics of operational amplifiers and its application, AC circuit analysis, Frequency response, Filters, Magnetic circuits and B-H curves, Transformer, Overview of electrica l machines."
+        },
+        "MATH F111": {
+            "code": "MATH F111",
+            "sections": {},
+            "description": "The course is intended as a basic course in calculus of several variables and vector analysis. The geometry of objects in two- or three-dimensional spaces is studied: near a point on them (locally) using differentiation and on the whole (globally) using integration. It includes polar coordinates, convergence of sequences and series, Maclaurin and Taylor series, partial derivatives, vector calculus leading to theorems of Green, Stokes and Gauss."
+        }
+    }
+}
